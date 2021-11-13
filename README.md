@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xillegas
 - 👀 I’m interested in Web and Quantum Technologies
-- 🌱 I’m currently learning Front-end, Back-end, Web developement.
+- 🌱 Also, I'm Web developer.
 - 📫 How to reach me? Just let me a message.
 
 <!---
