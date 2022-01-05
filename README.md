@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [Mercantil](https://mercantilsfi.com/)
 
-- 🌱 I’m currently learning **some web frameworks, as Ruby on Rails.**
+- 🌱 I’m currently learning **some web frameworks, as Django.**
+
+- 🚌 I've learned Ruby on Rails at LeWagon :)
 
 - 👀 I’m interested in **Web and Quantum Technologies**
 
